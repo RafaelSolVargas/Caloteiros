@@ -1,0 +1,12 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+    border-bottom: grey 2px solid;
+    margin-bottom: 20px;
+}
+
+.header-titulo {
+    color: #eee;
+}
