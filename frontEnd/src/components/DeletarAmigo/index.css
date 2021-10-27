@@ -1,0 +1,52 @@
+.delete-amigo-container {
+    height: auto;
+    padding: 10px;
+    border-bottom: 1px gray solid;
+}
+
+.title-btn-container {
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.description-container {
+    margin: 5px 0px 10px 0px;
+    display: flex;
+}
+
+.divida-input {
+    height: 40px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: none;
+    flex: 2;
+    background-color: #444;
+    color: #eee;
+    font-size: 16px;
+}
+
+.nome-input {
+    height: 40px;
+    padding: 0 10px;
+    border-radius: 5px;
+    border: none;
+    flex: 2;
+    background-color: #444;
+    color: #eee;
+    font-size: 16px;
+}
+
+
+.add-amigo-button {
+    background: #444;
+    color: #eee;
+    margin-left: 15px;
+    display: flex;
+    height: 30px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
